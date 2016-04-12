@@ -1,0 +1,30 @@
+{
+  "name": "csd-auto",
+  "version": "1.0.20",
+  "description": "财神道前端自动化工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "csdAuto": "./bin/csdAuto.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengbaozhiling/csdauto.git"
+  },
+  "keywords": [
+    "前端自动化"
+  ],
+  "author": "zhongliangwen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengbaozhiling/csdauto/issues"
+  },
+  "homepage": "https://github.com/fengbaozhiling/csdauto#readme",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "commander": "^2.9.0",
+    "fs-extra": "^0.26.7"
+  }
+}

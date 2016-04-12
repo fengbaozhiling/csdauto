@@ -1,0 +1,16 @@
+{
+  "projectName":"财神道前端自动化工作流",
+  "localserver" : {
+    "port" : "8082"
+  },
+  "dir":{
+    "images":"/images",
+    "js":"/js",
+    "css":"/css",
+    "font":"/font"
+  },
+  "export":{
+    "js":"app",
+    "css":"style"
+  }
+}
